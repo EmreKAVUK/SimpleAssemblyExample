@@ -1,7 +1,7 @@
 .model small
 .stack 32
 .data 
-isim db 'BaTtAL'
+isim db 'PiVotS'
 .code
 
 .STARTUP
